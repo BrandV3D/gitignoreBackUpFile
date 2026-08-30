@@ -1,2 +1,0 @@
-# Copy Paste file .gitignore
-
